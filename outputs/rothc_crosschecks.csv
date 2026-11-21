@@ -1,0 +1,4 @@
+check,months,tolerance,max_abs_diff
+port vs official month_results.csv (example input),828,1e-06,1.0942358130705543e-12
+"port vs official functions, Broadbalk plot 3 drivers",1548,1e-09,7.460698725481052e-14
+port vs manual Jan-1852 worked example (printed to 4 d.p.),1,0.0001,6.287218319897536e-05

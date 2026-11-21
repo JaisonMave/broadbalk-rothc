@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env*
+/*.pdf
+/CLAUDE_PROJECT_PLAN.md
+/inputs/external/era/*.pdf

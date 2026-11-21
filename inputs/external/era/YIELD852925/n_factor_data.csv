@@ -1,0 +1,9 @@
+description,factor_level_name,years,treatment_factor,treatment_factor_rdfType,amount,amount unit,frequency,treatment_form,treatment_form_rdfType
+Factor level shows annual nitrogen fertilizer treatment,nil,1852-1925,nitrogen fertilizer exposure,,0,,,,
+Factor level shows annual nitrogen fertilizer treatment,N1,1852-1925,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,48,kg N ha-1,annual,ammonium sulfate,http://aims.fao.org/aos/agrovoc/c_37197
+Factor level shows annual nitrogen fertilizer treatment,N1.5,1852-1878,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,72,kg N ha-1,annual,ammonium sulfate,http://aims.fao.org/aos/agrovoc/c_37197
+Factor level shows annual nitrogen fertilizer treatment,N2,1852-1925,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,96,kg N ha-1,annual,ammonium sulfate,http://aims.fao.org/aos/agrovoc/c_37197
+Factor level shows annual nitrogen fertilizer treatment,N3,1852-1925,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,144,kg N ha-1,annual,ammonium sulfate,http://aims.fao.org/aos/agrovoc/c_37197
+Factor level shows annual nitrogen fertilizer treatment,N4,1852-1864,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,192,kg N ha-1,annual,ammonium sulfate,http://aims.fao.org/aos/agrovoc/c_37197
+Factor level shows annual nitrogen fertilizer treatment,N1*,1852-1854; 1885-1925,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,48,kg N ha-1,annual,sodium nitrate,http://aims.fao.org/aos/agrovoc/c_37469
+Factor level shows annual nitrogen fertilizer treatment,N2*,1852-1925,nitrogen fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007102 ,96,kg N ha-1,annual,sodium nitrate,http://aims.fao.org/aos/agrovoc/c_37469

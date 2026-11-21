@@ -1,0 +1,6 @@
+description,factor_level_name,years,treatment_factor,treatment_factor_rdfType,amount,amount unit,frequency,treatment_form,treatment_form_rdfType
+Factor level shows sodium fertilizer treatment,nil,1852-1925,sodium nutrient exposure,,0,,,,
+Factor level shows sodium fertilizer treatment; this treatment then continued as Na,Na^,1852-1858,sodium nutrient exposure,,31,kg Na ha-1,annual,sodium sulphate,http://purl.obolibrary.org/obo/CHEBI_32149
+Factor level shows sodium fertilizer treatment,Na,1859-1925,sodium nutrient exposure,,16,kg Na ha-1,annual,sodium sulphate,http://purl.obolibrary.org/obo/CHEBI_32149
+Factor level shows sodium fertilizer treatment; this treatment then continued as Na*,Na*^,1852-1858,sodium nutrient exposure,,86,kg Na ha-1,annual,sodium sulphate,http://purl.obolibrary.org/obo/CHEBI_32149
+Factor level shows sodium fertilizer treatment,Na*,1859-1925,sodium nutrient exposure,,57,kg Na ha-1,annual,sodium sulphate,http://purl.obolibrary.org/obo/CHEBI_32149

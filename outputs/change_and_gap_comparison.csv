@@ -1,0 +1,10 @@
+quantity,observed,simulated,same_sign
+"change 1881->2010, plot 3",-2.3040,-10.9841,True
+"change 1881->2010, plot 8",-4.3200,4.9110,False
+"change 1881->2010, plot 2.2",25.4060,30.1323,True
+"change in mineral - nil gap since 1881, 2000",1.1520,15.8973,True
+"change in mineral - nil gap since 1881, 2005",-1.1520,15.8584,False
+"change in mineral - nil gap since 1881, 2010",-2.0160,15.8951,False
+"change in FYM - nil gap since 1881, 2000",25.6940,42.1194,True
+"change in FYM - nil gap since 1881, 2005",28.7900,42.5384,True
+"change in FYM - nil gap since 1881, 2010",27.7100,41.1165,True

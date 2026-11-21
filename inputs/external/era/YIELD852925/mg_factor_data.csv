@@ -1,0 +1,5 @@
+description,factor_level_name,years,treatment_factor,treatment_factor_rdfType,amount,amount unit,frequency,treatment_form,treatment_form_rdfType
+Factor level shows magnesium fertilizer treatment,nil,1852-1925,magnesium nutrient exposure,,0,,,,
+Factor level shows magnesium fertilizer treatment,Mg,1852-1925,magnesium nutrient exposure,http://purl.obolibrary.org/obo/PECO_0007288,11,kg Mg ha-1,annual,magnesium sulfate,http://purl.obolibrary.org/obo/CHEBI_32599
+Factor level shows magnesium fertilizer treatment; this treatment then continues as Mg*,Mg*^,1852-1858,magnesium nutrient exposure,http://purl.obolibrary.org/obo/PECO_0007288,47,kg Mg ha-1,annual,magnesium sulfate,http://purl.obolibrary.org/obo/CHEBI_32599
+Factor level shows magnesium fertilizer treatment,Mg*,1859-1925,magnesium nutrient exposure,http://purl.obolibrary.org/obo/PECO_0007288,31,kg Mg ha-1,annual,magnesium sulfate,http://purl.obolibrary.org/obo/CHEBI_32599

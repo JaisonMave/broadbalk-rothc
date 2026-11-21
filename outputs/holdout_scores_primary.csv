@@ -1,0 +1,9 @@
+model,plot,n,MAE,RMSE,bias
+RothC,3,3,7.9979,8.0125,-7.9979
+RothC,8,3,8.5576,8.6172,8.5576
+RothC,2.2,3,6.5288,6.7466,6.5288
+RothC,pooled (9),9,7.6948,7.8310,2.3628
+persistence (1881 stock),3,3,2.4960,2.5107,2.4960
+persistence (1881 stock),8,3,3.1680,3.4759,3.1680
+persistence (1881 stock),2.2,3,24.9020,24.9258,-24.9020
+persistence (1881 stock),pooled (9),9,10.1887,14.6023,-6.4127

@@ -1,0 +1,7 @@
+{
+  "predictions_sha256": "23dc1fd354161cd7d7ab0c597ba60ad6458479a34df0e51850399c6b05d1aadd",
+  "parameter_fingerprint": "da63091b4d8646261d6cf8745d3a81f14be40c1372983a2165814029253f018f",
+  "holdout_seal_sha256": "486e46db1cd93df4c75fd4744ebfda6017000960f22b0c0cf12b6f35d1576372",
+  "n_predictions": 54,
+  "primary_n": 9
+}

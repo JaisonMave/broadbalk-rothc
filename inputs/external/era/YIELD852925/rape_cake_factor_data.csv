@@ -1,0 +1,5 @@
+description,factor_level_name,years,treatment_factor,treatment_factor_rdfType,amount,amount unit,n_amount,n_amount_unit,frequency,treatment_form,treatment_form_rdfType
+Factor level shows annual rape cake treatment,nil,1852-1925,rape cake exposure,,0,,0,,,,
+Factor level shows annual rape cake treatment,C**,1852-1878,rape cake exposure,http://purl.obolibrary.org/obo/PECO_0001068,560,kg rape cake ha-1,24,kg N ha-1,annual,rape cake,http://aims.fao.org/aos/agrovoc/c_16027
+Factor level shows annual rape cake treatment,C*,1879-1882,rape cake exposure,http://purl.obolibrary.org/obo/PECO_0001068,1906,kg rape cake ha-1,96,kg N ha-2,annual,rape cake,http://aims.fao.org/aos/agrovoc/c_16027
+Factor level shows annual rape cake treatment,C,1883-1925,rape cake exposure,http://purl.obolibrary.org/obo/PECO_0001068,2118,kg rape cake ha-1,100,kg N ha-3,annual,rape cake,http://aims.fao.org/aos/agrovoc/c_16027

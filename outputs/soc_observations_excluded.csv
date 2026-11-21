@@ -1,0 +1,6 @@
+source_cell,year_label,year,plot,soc_Mg_C_ha,footnote,sections_note,sampled_sections,method_note,layer_cm,soil_mass_corrected,pct_soc,stock_over_pct_x28.8,role
+B33,1843,1843,3,28.8,,mean of all holes (samples) in the strip,all,"estimated starting value (red in workbook), not a measurement",0-23,False,1.0,1.0,excluded (estimated 1843 / indirect 1865)
+D33,1843,1843,8,28.8,,mean of all holes (samples) in the strip,all,"estimated starting value (red in workbook), not a measurement",0-23,False,1.0,1.0,excluded (estimated 1843 / indirect 1865)
+E33,1843,1843,2.2,28.8,,mean of all holes (samples) in the strip,all,"estimated starting value (red in workbook), not a measurement",0-23,True,1.0,1.0,excluded (estimated 1843 / indirect 1865)
+B34,1865,1865,3,27.071999999999996,,mean of all holes (samples) in the strip,all,derived from soda-lime total N and 1893 C:N ratios (indirect),0-23,False,0.94,0.9999999999999999,excluded (estimated 1843 / indirect 1865)
+E34,1865,1865,2.2,50.71,,mean of all holes (samples) in the strip,all,derived from soda-lime total N and 1893 C:N ratios (indirect),0-23,True,1.8,0.9782021604938271,excluded (estimated 1843 / indirect 1865)

@@ -1,0 +1,44 @@
+{
+  "plots": 3,
+  "layers": 1,
+  "layer": "0-23 cm",
+  "holdout_dates": [
+    2000,
+    2005,
+    2010
+  ],
+  "scored_observations": 9,
+  "baseline_year": 1881,
+  "baseline_stocks": {
+    "3": 26.784,
+    "8": 34.272,
+    "2.2": 53.038
+  },
+  "primary_pooled": {
+    "MAE": 7.695,
+    "RMSE": 7.831,
+    "bias": 2.363
+  },
+  "persistence_pooled": {
+    "MAE": 10.189,
+    "RMSE": 14.602,
+    "bias": -6.413
+  },
+  "rothc_crosscheck_max_abs_diff": 6.287218319897536e-05,
+  "max_mass_balance_error": 2.842170943040401e-14,
+  "predictions_sha256": "23dc1fd354161cd7d7ab0c597ba60ad6458479a34df0e51850399c6b05d1aadd",
+  "parameter_fingerprint": "da63091b4d8646261d6cf8745d3a81f14be40c1372983a2165814029253f018f",
+  "score_driven_parameter_changes": false,
+  "weather_months_observed_1882_2010": {
+    "temperature": 1548,
+    "rain": 1548,
+    "evaporation": 0,
+    "total": 1548
+  },
+  "environment": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1",
+    "matplotlib": "3.11.2"
+  }
+}
