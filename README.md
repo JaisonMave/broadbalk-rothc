@@ -52,7 +52,7 @@ python -m venv .venv
 
 ## Kaggle
 
-**Release status:** executed locally in a clean kernel, and tested locally with the Kaggle input bundle (unzipped into a separate folder and found through `BROADBALK_INPUT_ROOT`, with no other project files visible). That bundle-only run reproduced the same predictions and scores. **Execution on Kaggle itself is pending.**
+**Public release.** The [Kaggle notebook](https://www.kaggle.com/code/jaisonm123/soil-organic-carbon-prediction-using-rothc) ran on **21 November 2026** using the [public Broadbalk input dataset](https://www.kaggle.com/datasets/jaisonm123/broadbalk-rothc-inputs-1881-2010). Across the nine held-out plot-year means, the hosted run reproduced the local pooled RMSE to three decimal places: **7.831 Mg C/ha** for RothC and **14.602 Mg C/ha** for carrying the 1881 stock forward. The hosted and local prediction files have different SHA-256 hashes.
 
 1. Create a new Kaggle Dataset by uploading `dist/broadbalk-rothc-kaggle-inputs.zip`. Kaggle unpacks it and keeps the folder structure. Copy the citations and the CC BY 4.0 / Apache-2.0 notices from `ATTRIBUTION.txt` (inside the zip) into the dataset description.
 2. Create a notebook from `broadbalk_rothc.ipynb` and attach that dataset with **Add Input**. It mounts under `/kaggle/input/<dataset-slug>/`, and the notebook finds the files there automatically.
